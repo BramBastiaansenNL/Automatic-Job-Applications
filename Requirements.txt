@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+sentence-transformers
+jinja2
+pdfkit       # optional; needs wkhtmltopdf installed
+python-dotenv
+tqdm
+streamlit    # optional for UI
